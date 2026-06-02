@@ -1,0 +1,60 @@
+# Formato: DIFICULTAD|enunciado|op0|op1|op2|op3|indice_correcto(0-based)
+FÁCIL|¿Cuánto es 5 + 3?|6|8|7|9|1
+FÁCIL|¿Capital de Colombia?|Medellín|Bogotá|Cali|Barranquilla|1
+FÁCIL|¿Cuántos lados tiene un triángulo?|2|4|3|5|2
+FÁCIL|¿Cuánto es 10 x 2?|15|20|12|25|1
+FÁCIL|¿Cuál es el idioma oficial de Colombia?|Inglés|Español|Portugués|Francés|1
+FÁCIL|¿Cuántos colores tiene el arcoíris?|5|6|7|8|2
+FÁCIL|¿Cuántos días tiene una semana?|5|6|7|8|2
+FÁCIL|¿Cuántos meses tiene un año?|10|11|12|13|2
+FÁCIL|¿Cuánto es 9 x 9?|72|81|90|99|1
+FÁCIL|¿Cuál es el océano más grande?|Atlántico|Índico|Pacífico|Ártico|2
+FÁCIL|¿Qué símbolo tiene Java?|☕|🐍|🦀|💎|0
+FÁCIL|¿Cuántos bits tiene un nibble?|2|4|8|16|1
+FÁCIL|¿Cómo se llama el bucle infinito más simple?|for|while(true)|do-while|recursión|1
+FÁCIL|¿Cuál es el número PI aproximado?|2.71|3.14|1.41|1.73|1
+FÁCIL|¿Capital de Francia?|Lyon|Berlín|París|Madrid|2
+FÁCIL|¿Cuántos continentes hay?|5|6|7|8|2
+FÁCIL|¿Qué planeta es el más cercano al Sol?|Venus|Marte|Mercurio|Tierra|2
+FÁCIL|¿Cuánto es 100 / 4?|20|25|30|15|1
+FÁCIL|¿Qué hace println en Java?|Lee texto|Imprime en consola|Crea variable|Abre archivo|1
+FÁCIL|¿Cuántos lados tiene un cuadrado?|3|5|4|6|2
+MEDIA|¿Cuántos planetas tiene el Sistema Solar?|7|9|8|10|2
+MEDIA|¿Cuál es el elemento químico del agua?|CO2|H2O|NaCl|O2|1
+MEDIA|¿En qué año comenzó la Segunda Guerra Mundial?|1935|1941|1939|1945|2
+MEDIA|¿Quién escribió Don Quijote?|Lope de Vega|Cervantes|Quevedo|Góngora|1
+MEDIA|¿Raíz cuadrada de 144?|10|14|12|11|2
+MEDIA|¿Qué es una variable en programación?|Un bucle|Un espacio en memoria|Una función|Un archivo|1
+MEDIA|¿Cuál es la complejidad de buscar en un array?|O(log n)|O(n²)|O(n)|O(1)|2
+MEDIA|¿Qué significa HTML?|HyperText Markup Language|High Text Machine Language|Hyper Transfer Markup Language|Home Text Markup Language|0
+MEDIA|¿Cuál es la moneda de Japón?|Won|Yuan|Yen|Rupia|2
+MEDIA|¿Quién pintó la Mona Lisa?|Rafael|Miguel Ángel|Leonardo da Vinci|Botticelli|2
+MEDIA|¿Qué es un algoritmo?|Un programa|Una secuencia de pasos para resolver un problema|Un tipo de dato|Un lenguaje|1
+MEDIA|¿Cuál es el río más largo del mundo?|Amazonas|Nilo|Yangtsé|Misisipi|1
+MEDIA|¿Qué es la recursión?|Un bucle for|Una función que se llama a sí misma|Un tipo de array|Un patrón de diseño|1
+MEDIA|¿Qué hace el operador % en Java?|División|Potencia|Módulo/residuo|Multiplicación|2
+MEDIA|¿Cuál es el país más grande del mundo?|China|Canadá|Rusia|EE.UU.|2
+MEDIA|¿Qué es SQL?|Un sistema operativo|Lenguaje de consulta estructurada|Un framework|Un protocolo de red|1
+MEDIA|¿Cuántas notas tiene la escala musical?|5|6|7|8|2
+MEDIA|¿Qué es POO?|Programación Orientada a Objetos|Protocolo de Objetos Online|Procesador de Operaciones|Programa de Organización|0
+MEDIA|¿Qué significa CPU?|Central Processing Unit|Computer Power Unit|Core Processor Unit|Central Power Unit|0
+MEDIA|¿Cuánto es 2 elevado a la 10?|512|1024|2048|256|1
+DIFÍCIL|¿Constante gravitacional G?|6.67×10⁻¹¹|9.8 m/s²|3×10⁸|1.6×10⁻¹⁹|0
+DIFÍCIL|¿Cuántos bits tiene un byte?|4|16|8|32|2
+DIFÍCIL|¿Estructura LIFO?|Cola|Lista|Pila|Árbol|2
+DIFÍCIL|¿Complejidad BST balanceado?|O(n)|O(n²)|O(log n)|O(1)|2
+DIFÍCIL|¿Logaritmo base 2 de 1024?|8|12|10|16|2
+DIFÍCIL|¿Qué es el polimorfismo?|Herencia múltiple|Capacidad de un objeto de tomar múltiples formas|Encapsulamiento|Abstracción|1
+DIFÍCIL|¿Qué patrón de diseño usa una sola instancia?|Factory|Observer|Singleton|Decorator|2
+DIFÍCIL|¿Qué es Big O notation?|Un sistema operativo|Medida de complejidad algorítmica|Un protocolo|Un tipo de dato|1
+DIFÍCIL|¿Qué es un deadlock?|Un bug de memoria|Bloqueo mutuo entre procesos|Un tipo de excepción|Un algoritmo|1
+DIFÍCIL|¿Cuál es el teorema de Pitágoras?|a+b=c|a²+b²=c²|a³+b³=c³|a²-b²=c²|1
+DIFÍCIL|¿Qué es la notación infija?|Operador al final|Operador entre operandos|Operador al inicio|Sin operador|1
+DIFÍCIL|¿Qué hace git rebase?|Crea rama|Fusiona y reescribe historial|Elimina commits|Clona repositorio|1
+DIFÍCIL|¿Qué es un semáforo en SO?|Un proceso|Mecanismo de sincronización|Un tipo de hilo|Un protocolo|1
+DIFÍCIL|¿Cuántos colores usa RGB?|2|3|4|8|1
+DIFÍCIL|¿Qué es la programación funcional?|Uso de clases|Funciones como ciudadanos de primera clase|Solo bucles|Solo recursión|1
+DIFÍCIL|¿Qué significa SOLID?|Un framework|5 principios de diseño OO|Un lenguaje|Un patrón|1
+DIFÍCIL|¿Qué es un grafo dirigido?|Sin ciclos|Con aristas con dirección|Sin pesos|Con solo un nodo|1
+DIFÍCIL|¿Qué es memoización?|Un tipo de loop|Caché de resultados de funciones|Gestión de memoria|Un algoritmo de ordenamiento|1
+DIFÍCIL|¿Cuál es la velocidad de la luz?|300.000 km/s|150.000 km/s|1.000.000 km/s|30.000 km/s|0
